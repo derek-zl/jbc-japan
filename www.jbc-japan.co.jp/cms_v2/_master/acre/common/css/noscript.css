@@ -1,0 +1,4 @@
+.scrollEffect,
+.scrollEffectParent > * {
+  opacity: 1;
+}
